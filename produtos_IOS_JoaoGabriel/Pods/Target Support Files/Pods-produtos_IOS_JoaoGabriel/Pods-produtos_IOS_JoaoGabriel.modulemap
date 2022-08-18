@@ -1,0 +1,6 @@
+framework module Pods_produtos_IOS_JoaoGabriel {
+  umbrella header "Pods-produtos_IOS_JoaoGabriel-umbrella.h"
+
+  export *
+  module * { export * }
+}

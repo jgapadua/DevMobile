@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993018675383",
+    "firebase_url": "https://alunos-39aa9.firebaseio.com",
+    "project_id": "alunos-39aa9",
+    "storage_bucket": "alunos-39aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993018675383:android:246a535cfa50f67a",
+        "android_client_info": {
+          "package_name": "com.example.usuario.prova2_dm_android_joaogabrielamorimpadua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993018675383-0294n8bpnmd1g5u6ce6qd8ksd4rq3pkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.prova2_dm_android_joaogabrielamorimpadua",
+            "certificate_hash": "567f4c1c1da6eb6fcce421c7989b4b2c939dd21e"
+          }
+        },
+        {
+          "client_id": "993018675383-2aoa9kd29281t33rb5q7epfm3205cqhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1wpBOawjgwSAHzxPlsp8s0EY7UuSY_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993018675383-2aoa9kd29281t33rb5q7epfm3205cqhk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "993018675383-pgac6vvttb9bm5asnjri86ckmeg58h95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.cotemig.Prova2-DM-IOS-JoaoGabrielAmorimPadua"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "932421242295",
+    "firebase_url": "https://produtos-b3f72.firebaseio.com",
+    "project_id": "produtos-b3f72",
+    "storage_bucket": "produtos-b3f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932421242295:android:9f785cf88ae3bcc1",
+        "android_client_info": {
+          "package_name": "com.example.usuario.produtos_android_joaogabriel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932421242295-klqhh6sq14siteracskqfpeltal7chpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuROIaCNotC7QM_C71NWdE0liwqjAKpu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932421242295-klqhh6sq14siteracskqfpeltal7chpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932421242295-0n3557psm5up9514thuaqu97iviocbl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.JoaoGabriel-3B.produtos-IOS-JoaoGabrielbr.com.JoaoGabriel-3B.produtos-IOS-JoaoGabriel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932421242295:android:981d5ed6e80667f1",
+        "android_client_info": {
+          "package_name": "com.example.usuario.produtos_joaogabrielamorimpadua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932421242295-3l4d0546u264quaa5aipub51u92on3ch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.produtos_joaogabrielamorimpadua",
+            "certificate_hash": "567f4c1c1da6eb6fcce421c7989b4b2c939dd21e"
+          }
+        },
+        {
+          "client_id": "932421242295-klqhh6sq14siteracskqfpeltal7chpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuROIaCNotC7QM_C71NWdE0liwqjAKpu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932421242295-klqhh6sq14siteracskqfpeltal7chpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932421242295-0n3557psm5up9514thuaqu97iviocbl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.JoaoGabriel-3B.produtos-IOS-JoaoGabrielbr.com.JoaoGabriel-3B.produtos-IOS-JoaoGabriel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
